@@ -1,4 +1,4 @@
-package ssz.gof.结构型.adapter
+package ssz.gof.结构型.other.adapter
 
 /**
  *
