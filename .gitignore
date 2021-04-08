@@ -1,8 +1,6 @@
 build
 .gradle
 .idea
-.gradlew.bat
-.gradlew
 
 /local.properties
 /build
